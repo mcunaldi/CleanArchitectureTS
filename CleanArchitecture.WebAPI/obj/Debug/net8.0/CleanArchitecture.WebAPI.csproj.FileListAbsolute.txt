@@ -298,3 +298,4 @@ C:\Users\W10\Desktop\GITHUB\Clean Architecture - Udemy\CleanArchitectureTS\Clean
 C:\Users\W10\Desktop\GITHUB\Clean Architecture - Udemy\CleanArchitectureTS\CleanArchitecture.WebAPI\obj\Debug\net8.0\CleanArchitecture.WebAPI.pdb
 C:\Users\W10\Desktop\GITHUB\Clean Architecture - Udemy\CleanArchitectureTS\CleanArchitecture.WebAPI\obj\Debug\net8.0\CleanArchitecture.WebAPI.genruntimeconfig.cache
 C:\Users\W10\Desktop\GITHUB\Clean Architecture - Udemy\CleanArchitectureTS\CleanArchitecture.WebAPI\obj\Debug\net8.0\ref\CleanArchitecture.WebAPI.dll
+C:\Users\W10\Desktop\GITHUB\Clean Architecture - Udemy\CleanArchitectureTS\CleanArchitecture.WebAPI\bin\Debug\net8.0\GenericRepository.dll

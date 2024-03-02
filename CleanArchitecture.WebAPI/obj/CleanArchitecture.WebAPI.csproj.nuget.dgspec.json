@@ -122,6 +122,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "EntityFrameworkCore.GenericRepository.Nuget": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -350,6 +356,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "EntityFrameworkCore.GenericRepository.Nuget": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
             "FluentValidation": {
               "target": "Package",
               "version": "[11.9.0, )"

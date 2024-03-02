@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "d95t2tGHdAChe61DboMIfZ8lia9+yrEo88lWNNt6xvJtK2Oxf76j+ePOliz8FLH4HA7SB4JxFVtmGNxlMbZuDg==",
+  "dgSpecHash": "Grf0UZErM6Gv21Vvp5d9gpGqEajkIrVZdl887IEHnXxfksaDkjNwqWIvxCGmIBAPAdzEVXCnt+qwhlObOgHPeQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\W10\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\entityframeworkcore.genericrepository.nuget\\1.0.2\\entityframeworkcore.genericrepository.nuget.1.0.2.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

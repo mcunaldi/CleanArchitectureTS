@@ -1,16 +1,6 @@
 [
   {
     "ContainingType": "CleanArchitecture.Presentation.Controllers.CarsController",
-    "Method": "Calculate",
-    "RelativePath": "api/Cars/Calculate",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "CleanArchitecture.Presentation.Controllers.CarsController",
     "Method": "Create",
     "RelativePath": "api/Cars/Create",
     "HttpMethod": "POST",
@@ -20,6 +10,22 @@
       {
         "Name": "request",
         "Type": "CleanArchitecture.Application.Features.CarFeatures.Commands.CreateCar.CreateCarCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitecture.Presentation.Controllers.CarsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Cars/GetAll",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CleanArchitecture.Application.Features.CarFeatures.Queries.GetAllCar.GetAllCarQuery",
         "IsRequired": true
       }
     ],

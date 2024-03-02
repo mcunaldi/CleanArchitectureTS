@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "KxWMEbloHtFn89fh4aobD9moz7U9fegVMEUTYQjQSrXf8EDeIf0dm0pn7+W2TZHuSJVxGUx8+udVJ7HxmpfVRQ==",
+  "dgSpecHash": "/m2Oz8YwbmdeghVVqMwmznmgzia+ndWeEmZCx3Z4y8NUcuM8mLzl1s36vuo85K2DDBXV8q7YQHnIAzHvEQqvwQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\W10\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\entityframeworkcore.genericrepository.nuget\\1.0.2\\entityframeworkcore.genericrepository.nuget.1.0.2.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
