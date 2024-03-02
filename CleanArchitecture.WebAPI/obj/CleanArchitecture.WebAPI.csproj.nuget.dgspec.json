@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj": {}
+    "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+    "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+        "projectUniqueName": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
         "projectName": "CleanArchitecture.Application",
-        "projectPath": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+        "projectPath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
         "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Application\\obj\\",
+        "outputPath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
-                "projectPath": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
+              "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+                "projectPath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+    "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
         "projectName": "CleanArchitecture.Domain",
-        "projectPath": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+        "projectPath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
         "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Domain\\obj\\",
+        "outputPath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj": {
+    "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj",
+        "projectUniqueName": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj",
         "projectName": "CleanArchitecture.Persistance",
-        "projectPath": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj",
+        "projectPath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj",
         "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Persistance\\obj\\",
+        "outputPath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Persistance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -166,11 +166,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
-                "projectPath": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
+              "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+                "projectPath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
               },
-              "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
-                "projectPath": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
+              "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+                "projectPath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
               }
             }
           }
@@ -221,14 +221,14 @@
         }
       }
     },
-    "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj": {
+    "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj",
+        "projectUniqueName": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj",
         "projectName": "CleanArchitecture.Presentation",
-        "projectPath": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj",
+        "projectPath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj",
         "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Presentation\\obj\\",
+        "outputPath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -245,8 +245,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
-                "projectPath": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
+              "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+                "projectPath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
               }
             }
           }
@@ -299,14 +299,14 @@
         }
       }
     },
-    "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj": {
+    "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj",
         "projectName": "CleanArchitecture.WebAPI",
-        "projectPath": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj",
+        "projectPath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj",
         "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -323,14 +323,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
-                "projectPath": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
+              "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+                "projectPath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
               },
-              "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj": {
-                "projectPath": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj"
+              "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj": {
+                "projectPath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj"
               },
-              "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj": {
-                "projectPath": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj"
+              "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj": {
+                "projectPath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj"
               }
             }
           }

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CleanArchitecture.UnitTest
-build_property.ProjectDir = C:\Users\W10\Desktop\Projeler\Clean Architecture - Udemy\CleanArchitecture\CleanArchitecture.UnitTest\
+build_property.ProjectDir = C:\Users\W10\Desktop\GITHUB\Clean Architecture - Udemy\CleanArchitectureTS\CleanArchitecture.UnitTest\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

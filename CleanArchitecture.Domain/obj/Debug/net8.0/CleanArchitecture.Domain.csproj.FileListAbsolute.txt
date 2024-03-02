@@ -9,3 +9,15 @@ C:\Users\W10\Desktop\Projeler\Clean Architecture - Udemy\CleanArchitecture\Clean
 C:\Users\W10\Desktop\Projeler\Clean Architecture - Udemy\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net8.0\refint\CleanArchitecture.Domain.dll
 C:\Users\W10\Desktop\Projeler\Clean Architecture - Udemy\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.pdb
 C:\Users\W10\Desktop\Projeler\Clean Architecture - Udemy\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net8.0\ref\CleanArchitecture.Domain.dll
+C:\Users\W10\Desktop\GITHUB\Clean Architecture - Udemy\CleanArchitectureTS\CleanArchitecture.Domain\bin\Debug\net8.0\CleanArchitecture.Domain.deps.json
+C:\Users\W10\Desktop\GITHUB\Clean Architecture - Udemy\CleanArchitectureTS\CleanArchitecture.Domain\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+C:\Users\W10\Desktop\GITHUB\Clean Architecture - Udemy\CleanArchitectureTS\CleanArchitecture.Domain\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+C:\Users\W10\Desktop\GITHUB\Clean Architecture - Udemy\CleanArchitectureTS\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\Desktop\GITHUB\Clean Architecture - Udemy\CleanArchitectureTS\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\GITHUB\Clean Architecture - Udemy\CleanArchitectureTS\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\W10\Desktop\GITHUB\Clean Architecture - Udemy\CleanArchitectureTS\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\GITHUB\Clean Architecture - Udemy\CleanArchitectureTS\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.sourcelink.json
+C:\Users\W10\Desktop\GITHUB\Clean Architecture - Udemy\CleanArchitectureTS\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.dll
+C:\Users\W10\Desktop\GITHUB\Clean Architecture - Udemy\CleanArchitectureTS\CleanArchitecture.Domain\obj\Debug\net8.0\refint\CleanArchitecture.Domain.dll
+C:\Users\W10\Desktop\GITHUB\Clean Architecture - Udemy\CleanArchitectureTS\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.pdb
+C:\Users\W10\Desktop\GITHUB\Clean Architecture - Udemy\CleanArchitectureTS\CleanArchitecture.Domain\obj\Debug\net8.0\ref\CleanArchitecture.Domain.dll

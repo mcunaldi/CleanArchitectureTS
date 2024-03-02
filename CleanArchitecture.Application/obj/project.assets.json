@@ -335,11 +335,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+      "projectUniqueName": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
       "projectName": "CleanArchitecture.Application",
-      "projectPath": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+      "projectPath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
       "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Application\\obj\\",
+      "outputPath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -356,8 +356,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
-              "projectPath": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
+            "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+              "projectPath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
             }
           }
         }

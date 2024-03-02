@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5d8QZsRm4ABKUQudfOD8GpQxBy/AB4ZbaANGPBRte4wTkQQRl38XPwUfPU6gYdyhNFdrqopHjaRHbAik0GLeiw==",
+  "dgSpecHash": "kgyEr4wuKItlZ5moHAJiC254XEozzRU6jMywf+nfmXTYNeOmWGizvYh7qBjcJBn40U0cR9ueP1WRDVdppj7QBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+  "projectFilePath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\W10\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",

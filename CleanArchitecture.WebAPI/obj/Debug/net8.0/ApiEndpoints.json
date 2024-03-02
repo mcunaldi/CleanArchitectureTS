@@ -1,6 +1,16 @@
 [
   {
     "ContainingType": "CleanArchitecture.Presentation.Controllers.CarsController",
+    "Method": "Calculate",
+    "RelativePath": "api/Cars/Calculate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitecture.Presentation.Controllers.CarsController",
     "Method": "Create",
     "RelativePath": "api/Cars/Create",
     "HttpMethod": "POST",
