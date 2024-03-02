@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "5d8QZsRm4ABKUQudfOD8GpQxBy/AB4ZbaANGPBRte4wTkQQRl38XPwUfPU6gYdyhNFdrqopHjaRHbAik0GLeiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\W10\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

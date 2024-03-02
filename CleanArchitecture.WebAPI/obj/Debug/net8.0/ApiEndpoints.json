@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CleanArchitecture.Presentation.Controllers.CarsController",
+    "Method": "Create",
+    "RelativePath": "api/Cars/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CleanArchitecture.Application.Features.CarFeatures.Commands.CreateCar.CreateCarCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

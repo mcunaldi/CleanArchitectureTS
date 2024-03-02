@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A246B41-CA77-4B3A-9D83-1DECFEF1A36C}|CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj|c:\\users\\w10\\desktop\\projeler\\clean architecture - udemy\\cleanarchitecture\\cleanarchitecture.webapi\\middleware\\middlewareextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A246B41-CA77-4B3A-9D83-1DECFEF1A36C}|CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj|solutionrelative:cleanarchitecture.webapi\\middleware\\middlewareextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A246B41-CA77-4B3A-9D83-1DECFEF1A36C}|CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj|c:\\users\\w10\\desktop\\projeler\\clean architecture - udemy\\cleanarchitecture\\cleanarchitecture.webapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A246B41-CA77-4B3A-9D83-1DECFEF1A36C}|CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj|solutionrelative:cleanarchitecture.webapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A246B41-CA77-4B3A-9D83-1DECFEF1A36C}|CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj|c:\\users\\w10\\desktop\\projeler\\clean architecture - udemy\\cleanarchitecture\\cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A246B41-CA77-4B3A-9D83-1DECFEF1A36C}|CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj|solutionrelative:cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.WebAPI\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebAPI\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.WebAPI\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "CleanArchitecture.WebAPI\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T10:57:24.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MiddlewareExtension.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.WebAPI\\Middleware\\MiddlewareExtension.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebAPI\\Middleware\\MiddlewareExtension.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.WebAPI\\Middleware\\MiddlewareExtension.cs",
+              "RelativeToolTip": "CleanArchitecture.WebAPI\\Middleware\\MiddlewareExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T10:56:13.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\Projeler\\Clean Architecture - Udemy\\CleanArchitecture\\CleanArchitecture.WebAPI\\Program.cs",
+              "RelativeToolTip": "CleanArchitecture.WebAPI\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T10:55:53.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
