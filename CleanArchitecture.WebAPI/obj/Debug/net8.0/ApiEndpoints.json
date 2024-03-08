@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "CleanArchitecture.Presentation.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CleanArchitecture.Application.Features.AuthFeatures.Commands.Register.RegisterCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CleanArchitecture.Presentation.Controllers.CarsController",
     "Method": "Create",
     "RelativePath": "api/Cars/Create",

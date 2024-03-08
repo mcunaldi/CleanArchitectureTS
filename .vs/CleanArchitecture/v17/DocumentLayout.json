@@ -3,48 +3,100 @@
   "WorkspaceRootPath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2990D2B-DA85-4853-9DD7-CC4EA5D179F8}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.presentation\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2990D2B-DA85-4853-9DD7-CC4EA5D179F8}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:cleanarchitecture.presentation\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.application\\features\\carfeatures\\queries\\getallcar\\getallcarqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\carfeatures\\queries\\getallcar\\getallcarqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8D8909F1-26C4-4E9F-A374-668C191361F7}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.persistance\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D8909F1-26C4-4E9F-A374-668C191361F7}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.application\\services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F69ED47A-1286-4D1B-AFC7-2183EF43C698}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.infrastructure\\cleanarchitecture.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F69ED47A-1286-4D1B-AFC7-2183EF43C698}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:cleanarchitecture.infrastructure\\cleanarchitecture.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.application\\features\\carfeatures\\queries\\getallcar\\getallcarquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\carfeatures\\queries\\getallcar\\getallcarquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.application\\features\\authfeatures\\commands\\register\\registercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\authfeatures\\commands\\register\\registercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.application\\features\\authfeatures\\commands\\register\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\authfeatures\\commands\\register\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.application\\features\\authfeatures\\commands\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\authfeatures\\commands\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8909F1-26C4-4E9F-A374-668C191361F7}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.persistance\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8909F1-26C4-4E9F-A374-668C191361F7}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69ED47A-1286-4D1B-AFC7-2183EF43C698}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.infrastructure\\services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69ED47A-1286-4D1B-AFC7-2183EF43C698}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:cleanarchitecture.infrastructure\\services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.application\\services\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\services\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A246B41-CA77-4B3A-9D83-1DECFEF1A36C}|CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A246B41-CA77-4B3A-9D83-1DECFEF1A36C}|CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj|solutionrelative:cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8909F1-26C4-4E9F-A374-668C191361F7}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.persistance\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8909F1-26C4-4E9F-A374-668C191361F7}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2990D2B-DA85-4853-9DD7-CC4EA5D179F8}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.presentation\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2990D2B-DA85-4853-9DD7-CC4EA5D179F8}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:cleanarchitecture.presentation\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74874A6E-2427-47E1-B61B-42522AF72A3C}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.domain\\repositories\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74874A6E-2427-47E1-B61B-42522AF72A3C}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\repositories\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2990D2B-DA85-4853-9DD7-CC4EA5D179F8}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2990D2B-DA85-4853-9DD7-CC4EA5D179F8}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:cleanarchitecture.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.application\\features\\carfeatures\\commands\\createcar\\createcarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\carfeatures\\commands\\createcar\\createcarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2990D2B-DA85-4853-9DD7-CC4EA5D179F8}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.presentation\\abstractions\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2990D2B-DA85-4853-9DD7-CC4EA5D179F8}|CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:cleanarchitecture.presentation\\abstractions\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F246C28D-BD60-45EC-B082-F018D9C9980A}|CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.unittest\\carscontrollerunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F246C28D-BD60-45EC-B082-F018D9C9980A}|CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj|solutionrelative:cleanarchitecture.unittest\\carscontrollerunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F246C28D-BD60-45EC-B082-F018D9C9980A}|CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.unittest\\cleanarchitecture.unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F246C28D-BD60-45EC-B082-F018D9C9980A}|CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj|solutionrelative:cleanarchitecture.unittest\\cleanarchitecture.unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8D8909F1-26C4-4E9F-A374-668C191361F7}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.persistance\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8909F1-26C4-4E9F-A374-668C191361F7}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74874A6E-2427-47E1-B61B-42522AF72A3C}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.domain\\dtos\\messageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74874A6E-2427-47E1-B61B-42522AF72A3C}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\dtos\\messageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.application\\cleanarchitecture.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\cleanarchitecture.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8909F1-26C4-4E9F-A374-668C191361F7}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.persistance\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8909F1-26C4-4E9F-A374-668C191361F7}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74874A6E-2427-47E1-B61B-42522AF72A3C}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74874A6E-2427-47E1-B61B-42522AF72A3C}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8909F1-26C4-4E9F-A374-668C191361F7}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.persistance\\configurations\\carconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8909F1-26C4-4E9F-A374-668C191361F7}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\configurations\\carconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.application\\features\\carfeatures\\queries\\getallcar\\getallcarqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\carfeatures\\queries\\getallcar\\getallcarqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.application\\features\\carfeatures\\queries\\getallcar\\getallcarquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\carfeatures\\queries\\getallcar\\getallcarquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.application\\services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BE6D07-A83D-4252-9970-3C122478A53D}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8909F1-26C4-4E9F-A374-668C191361F7}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\w10\\desktop\\github\\clean architecture - udemy\\cleanarchitecturets\\cleanarchitecture.persistance\\migrations\\20240304173111_mg4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8909F1-26C4-4E9F-A374-668C191361F7}|CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:cleanarchitecture.persistance\\migrations\\20240304173111_mg4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,150 +106,298 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICarService.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Services\\ICarService.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Services\\ICarService.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Services\\ICarService.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\Services\\ICarService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "DocumentIndex": 13,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Services\\IAuthService.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T13:05:50.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetAllCarQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Features\\CarFeatures\\Queries\\GetAllCar\\GetAllCarQueryHandler.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\CarFeatures\\Queries\\GetAllCar\\GetAllCarQueryHandler.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Features\\CarFeatures\\Queries\\GetAllCar\\GetAllCarQueryHandler.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\Features\\CarFeatures\\Queries\\GetAllCar\\GetAllCarQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T13:05:19.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T16:22:29.34Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "GetAllCarQuery.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Features\\CarFeatures\\Queries\\GetAllCar\\GetAllCarQuery.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\CarFeatures\\Queries\\GetAllCar\\GetAllCarQuery.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Features\\CarFeatures\\Queries\\GetAllCar\\GetAllCarQuery.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\Features\\CarFeatures\\Queries\\GetAllCar\\GetAllCarQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Title": "RegisterCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Register\\RegisterCommandHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Register\\RegisterCommandHandler.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Register\\RegisterCommandHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Register\\RegisterCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T13:04:31.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T16:20:27.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CarService.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Persistance\\Services\\CarService.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Services\\CarService.cs",
               "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Persistance\\Services\\CarService.cs",
               "RelativeToolTip": "CleanArchitecture.Persistance\\Services\\CarService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T13:02:51.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CarRepository.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Persistance\\Repositories\\CarRepository.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Repositories\\CarRepository.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Persistance\\Repositories\\CarRepository.cs",
-              "RelativeToolTip": "CleanArchitecture.Persistance\\Repositories\\CarRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T13:00:19.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ICarRepository.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Domain\\Repositories\\ICarRepository.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Repositories\\ICarRepository.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Domain\\Repositories\\ICarRepository.cs",
-              "RelativeToolTip": "CleanArchitecture.Domain\\Repositories\\ICarRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T12:59:38.028Z",
+              "WhenOpened": "2024-03-04T16:53:28.99Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswDEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T16:41:33.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Register\\RegisterCommandValidator.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Register\\RegisterCommandValidator.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Register\\RegisterCommandValidator.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Register\\RegisterCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T16:35:38.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Presentation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Presentation\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Presentation\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CleanArchitecture.Presentation\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T16:29:30.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterCommand.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Register\\RegisterCommand.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Register\\RegisterCommand.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Register\\RegisterCommand.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\AuthFeatures\\Commands\\Register\\RegisterCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:32:27.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CleanArchitecture.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+              "RelativeToolTip": "CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-05T16:48:53.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Persistance\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Persistance\\Services\\AuthService.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T16:23:05.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Persistance\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Persistance\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T16:23:54.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMailService.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Services\\IMailService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Services\\IMailService.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Services\\IMailService.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Services\\IMailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T16:49:15.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Infrastructure\\Services\\MailService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Infrastructure\\Services\\MailService.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Infrastructure\\Services\\MailService.cs",
+              "RelativeToolTip": "CleanArchitecture.Infrastructure\\Services\\MailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T16:49:34.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Presentation\\Abstractions\\ApiController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Presentation\\Abstractions\\ApiController.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Presentation\\Abstractions\\ApiController.cs",
+              "RelativeToolTip": "CleanArchitecture.Presentation\\Abstractions\\ApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T16:31:38.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MessageResponse.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Domain\\DTOs\\MessageResponse.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\DTOs\\MessageResponse.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Domain\\DTOs\\MessageResponse.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\DTOs\\MessageResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T16:20:16.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.WebAPI\\Program.cs",
               "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.WebAPI\\Program.cs",
               "RelativeToolTip": "CleanArchitecture.WebAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAmwCUAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T12:49:21.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T17:24:53.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "CarsController.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
               "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
               "RelativeToolTip": "CleanArchitecture.Presentation\\Controllers\\CarsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T12:28:49.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T16:58:59.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CreateCarCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandHandler.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandHandler.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandHandler.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\Features\\CarFeatures\\Commands\\CreateCar\\CreateCarCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T12:37:02.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CarsControllerUnitTest.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.UnitTest\\CarsControllerUnitTest.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.UnitTest\\CarsControllerUnitTest.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.UnitTest\\CarsControllerUnitTest.cs",
-              "RelativeToolTip": "CleanArchitecture.UnitTest\\CarsControllerUnitTest.cs",
+              "DocumentIndex": 23,
+              "Title": "20240304173111_mg4.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Persistance\\Migrations\\20240304173111_mg4.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Migrations\\20240304173111_mg4.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Persistance\\Migrations\\20240304173111_mg4.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Migrations\\20240304173111_mg4.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T12:28:27.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T17:31:11.995Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CleanArchitecture.UnitTest.csproj",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj",
-              "RelativeDocumentMoniker": "CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj",
-              "RelativeToolTip": "CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj",
+              "DocumentIndex": 16,
+              "Title": "CleanArchitecture.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+              "RelativeToolTip": "CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-02T12:28:14.378Z",
+              "WhenOpened": "2024-03-04T17:31:59.469Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Persistance\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Persistance\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:24:07.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:20:28.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CarConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Persistance\\Configurations\\CarConfiguration.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Persistance\\Configurations\\CarConfiguration.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Persistance\\Configurations\\CarConfiguration.cs",
+              "RelativeToolTip": "CleanArchitecture.Persistance\\Configurations\\CarConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:16:22.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Services\\ICarService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Services\\ICarService.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Services\\ICarService.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Services\\ICarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T16:57:27.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetAllCarQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Features\\CarFeatures\\Queries\\GetAllCar\\GetAllCarQueryHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\CarFeatures\\Queries\\GetAllCar\\GetAllCarQueryHandler.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Features\\CarFeatures\\Queries\\GetAllCar\\GetAllCarQueryHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\CarFeatures\\Queries\\GetAllCar\\GetAllCarQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T16:53:23.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetAllCarQuery.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Features\\CarFeatures\\Queries\\GetAllCar\\GetAllCarQuery.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\CarFeatures\\Queries\\GetAllCar\\GetAllCarQuery.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\Features\\CarFeatures\\Queries\\GetAllCar\\GetAllCarQuery.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\CarFeatures\\Queries\\GetAllCar\\GetAllCarQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T16:52:18.848Z"
             }
           ]
         }
