@@ -1,4 +1,6 @@
-﻿using CleanArchitecture.Application.Features.AuthFeatures.Commands.Register;
+﻿using CleanArchitecture.Application.Features.AuthFeatures.Commands.CreateNewTokenByRefreshToken;
+using CleanArchitecture.Application.Features.AuthFeatures.Commands.Login;
+using CleanArchitecture.Application.Features.AuthFeatures.Commands.Register;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,4 +11,6 @@ namespace CleanArchitecture.Application.Services;
 public interface IAuthService
 {
     Task RegisterAsync(RegisterCommand request);
+    Task<LoginCommandResponse> LoginAsync(LoginCommand reques, CancellationToken cancellation);
+    Task<LoginCommandResponse> CreateTokenByRefreshTokenAsync(CreateNewTokenByRefreshTokenCommand request, CancellationToken cancellationToken);
 }
