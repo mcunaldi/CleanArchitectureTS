@@ -1,4 +1,5 @@
 ﻿using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -10,6 +11,7 @@ namespace CleanArchitecture.Presentation.Abstractions;
 
 [ApiController]
 [Route("api/[controller]/[action]")]
+[Authorize(AuthenticationSchemes = "Bearer")]
 public abstract class ApiController() : ControllerBase
 {
     public readonly IMediator _mediator;

@@ -78,5 +78,37 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitecture.Presentation.Controllers.RolesController",
+    "Method": "Create",
+    "RelativePath": "api/Roles/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CleanArchitecture.Application.Features.RoleFeatures.Commands.CreateRole.CreateRoleCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitecture.Presentation.Controllers.UserRolesController",
+    "Method": "Create",
+    "RelativePath": "api/UserRoles/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CleanArchitecture.Application.Features.UserRoleFeatures.Commands.CreateUserRole.CreateUserRoleCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

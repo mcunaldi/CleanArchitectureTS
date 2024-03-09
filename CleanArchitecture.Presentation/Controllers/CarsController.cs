@@ -8,6 +8,7 @@ using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CleanArchitecture.Presentation.Controllers;
+
 public sealed class CarsController(IMediator mediator) : ApiController
 {
 
