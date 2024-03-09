@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HYBvlSa7C0yZ9EXB5qkcViwdBqQ+GvQXN7So9dT9UFZlJ7wEUpiWAJxAc+nnlNCJCidyCpPcjNE/Fux1saAQIw==",
+  "dgSpecHash": "Raysc/WQDNsPfXEUmB1S5ta9pYmwRXQ865XVkCBWOeSO3DycXZEKuWnIiewGYPe7iJ06hK2UOPh3Nh77VEScxA==",
   "success": true,
   "projectFilePath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.WebAPI\\CleanArchitecture.WebAPI.csproj",
   "expectedPackageFiles": [

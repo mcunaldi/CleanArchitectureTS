@@ -343,6 +343,9 @@
             "projectReferences": {
               "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
                 "projectPath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
+              },
+              "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\W10\\Desktop\\GITHUB\\Clean Architecture - Udemy\\CleanArchitectureTS\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj"
               }
             }
           }

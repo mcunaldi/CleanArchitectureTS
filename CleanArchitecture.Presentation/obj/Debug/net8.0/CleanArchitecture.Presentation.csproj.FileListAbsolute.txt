@@ -33,3 +33,5 @@ C:\Users\W10\Desktop\GITHUB\Clean Architecture - Udemy\CleanArchitectureTS\Clean
 C:\Users\W10\Desktop\GITHUB\Clean Architecture - Udemy\CleanArchitectureTS\CleanArchitecture.Presentation\obj\Debug\net8.0\refint\CleanArchitecture.Presentation.dll
 C:\Users\W10\Desktop\GITHUB\Clean Architecture - Udemy\CleanArchitectureTS\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.pdb
 C:\Users\W10\Desktop\GITHUB\Clean Architecture - Udemy\CleanArchitectureTS\CleanArchitecture.Presentation\obj\Debug\net8.0\ref\CleanArchitecture.Presentation.dll
+C:\Users\W10\Desktop\GITHUB\Clean Architecture - Udemy\CleanArchitectureTS\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+C:\Users\W10\Desktop\GITHUB\Clean Architecture - Udemy\CleanArchitectureTS\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
